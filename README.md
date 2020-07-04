@@ -12,11 +12,12 @@ Various groupby() operations on the original dataset provided the Total Rides, T
 | Rural    |           125 |              78 | $4327.93      | $34.62                  | $55.49                    |
 | Suburban |           625 |             490 | $19356.33     | $30.97                  | $39.50                    |
 | Urban    |          1625 |            2405 | $39854.38     | $24.53                  | $16.57                    |
+
 It is worthy noting some inversely related trends between the city types. Namely, on the urban end of the spectrum, Pyber is taking in more fares but over many more rides, whereas on the rural end of the spectrum, the average fare per ride is much higher. The same trend goes for average fare per driver. On the urban end of the spectrum, the issue is so pronounced that there are actually more drivers than rides given, meaning that some drivers will receive no fares.
 
 The second technical analysis deliverable, Figure 1., represents the total fares brought in weekly for the first four months of 2019. 
 
-![Image]/(analysis/Fig8.png)
+![](/analysis/Fig8.png)
 
 The practical value of the multiple-line graph is showing the distinct difference in the amount of fares brought in over the different types of cities. As expected, urban cities account for the largest amount of fares while rural cities account for the least amount of fares.
 
